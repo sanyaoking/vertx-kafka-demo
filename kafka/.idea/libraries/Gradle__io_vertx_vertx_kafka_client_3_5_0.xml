@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.vertx:vertx-kafka-client:3.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-kafka-client/3.5.0/2205d10a8ff8414b9ca04fa9ac0d9ad075661485/vertx-kafka-client-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-kafka-client/3.5.0/90489cdd6c77b5fd01ccaa9220bc8ae3150e1299/vertx-kafka-client-3.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

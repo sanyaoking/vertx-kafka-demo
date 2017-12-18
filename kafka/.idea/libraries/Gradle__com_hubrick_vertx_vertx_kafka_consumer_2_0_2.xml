@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hubrick.vertx:vertx-kafka-consumer:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hubrick.vertx/vertx-kafka-consumer/2.0.2/65ba5674b47dc97f8ca46913162f1808824c7253/vertx-kafka-consumer-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hubrick.vertx/vertx-kafka-consumer/2.0.2/b329045c295e91b56add2ec9785ff858d97c58b1/vertx-kafka-consumer-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

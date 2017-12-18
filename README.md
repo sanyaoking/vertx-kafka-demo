@@ -1,2 +1,9 @@
 # vertx-kafka-demo
 vertx学习之kafka整合demo,项目中的resources中上传了kafka与zookeeper安装包与解压文件。
+
+按照kafka官网启动服务前，要注意修改kafka配置文件中的zookeeper.properties中的dataDir的路径存在
+然后启动代码目录下静态文件中的kafka服务
+1. bin/zookeeper-server-start.sh config/zookeeper.properties
+2. bin/kafka-server-start.sh config/server.properties
+完成上面步骤后，Testkafka类中的测试代码
+本代码测试的时候应注意多次运行代码后，每次都会比上一次多打印5条信息，这是因为kafka默认保存两个星期的消息，所以每次重新运行的时候，生产着会新增五条信息，但是消费者消费的确实队列中全部的信息
