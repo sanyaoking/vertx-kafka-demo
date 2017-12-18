@@ -1,0 +1,2 @@
+# vertx-kafka-demo
+vertx学习之kafka整合demo,项目中的resources中上传了kafka与zookeeper安装包与解压文件。
